@@ -16,7 +16,6 @@ setup(
     'Operating System :: OS Independent',
     'Programming Language :: Python',
     'Programming Language :: Lisp',
-    'Programming Language :: Hy',
     'Topic :: Software Development :: Build Tools',
     'Topic :: Utilities'
   ]
