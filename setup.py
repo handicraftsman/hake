@@ -9,6 +9,7 @@ setup(
   author = 'Nickolay Ilyushin',
   author_email = 'nickolay02@inbox.ru',
   url = 'https://github.com/handicraftsman/hake',
+  license = 'MIT',
   packages = ['hake'],
   classifiers = [
     'License :: OSI Approved :: MIT License',
